@@ -1,4 +1,4 @@
-# pip install pandas opencv-python
+
 # visit pyGuru on youtube
 
 import cv2
@@ -6,7 +6,7 @@ import pandas as pd
 
 # --------------------------------------------------------------------------
 
-img_path = 'pic2.jpg'
+img_path = 'pic1.jpg'
 csv_path = 'colors.csv'
 
 # reading csv file
